@@ -14,8 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('users', function() {
-    return '<h1>users! 555</h1>';
+Route::get('showname', function() {
+    return '<h1>Hello laravel</h1>';
 });    
 Auth::routes();
 
