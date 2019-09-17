@@ -9,4 +9,4 @@ class HomeController extends Controller
     function showHello(){
        return '<h1>Hello Controller : Bios witchapol</h1>';
     }
-{
+}
