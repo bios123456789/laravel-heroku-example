@@ -5,6 +5,6 @@
   </head>
   <body>
          <h1>View Data :</h1>
-         
+         <h2><?= $name ?></h2>
   </body>
  </html> 
